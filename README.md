@@ -1,3 +1,3 @@
 Warfarin Dosing Estimation using Linear UCB and Neural networks
 
-[text](Warfarin/WarfarinDosing.pdf)
+[Warfarin Dosing Research Paper](Warfarin/WarfarinDosing.pdf)
